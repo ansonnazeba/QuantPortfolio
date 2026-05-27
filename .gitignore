@@ -16,4 +16,7 @@ Makefile
 .vscode/
 
 # macOS
-.DS_Storebuild/
+.DS_Store
+
+#Build directory
+build/
