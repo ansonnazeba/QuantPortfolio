@@ -1,0 +1,19 @@
+# CMake / CLion
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Compiled files
+*.o
+*.out
+*.exe
+*.dSYM/
+
+# IDE/editor
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
