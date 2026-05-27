@@ -19,8 +19,8 @@ double quant::Stock::getPricePerShare() const {
     return pricePerShare;
 }
 
-void quant::Stock::setPricePerShare(double pricePerShare) {
-    this->pricePerShare = pricePerShare;
+void quant::Stock::setPricePerShare(double pps) {
+    pricePerShare = pps;
 }
 
 double quant::Stock::getValue() const {
